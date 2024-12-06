@@ -1,0 +1,8 @@
+[package]
+name = "space_invaders"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+find_folder = "0.3.0"
+piston_window = "0.132.0"
